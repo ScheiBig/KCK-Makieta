@@ -1,0 +1,19 @@
+<svg width="16" height="16" version="1.1" viewBox="0 0 4.23333 4.23333" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(0 -292.767)">
+  <path transform="matrix(.264583 0 0 .264583 0 292.767)" d="m6.85742 2.11523a6 6 0 0 0-4.85742 5.88477 6 6 0 0 0 4.54688 5.81445l0.882812-3.5332a5 5.00002 0 0 1-2.42969-4.28125 5 5.00002 0 0 1 1.85742-3.88477z" fill="#b7c4c8" style="paint-order:normal"/>
+  <g fill="#ddb100">
+   <path d="m3.44309 295.496 0.458275 0.26459-0.13229 0.22913-0.458275-0.26459z" style="paint-order:normal"/>
+   <path d="m2.72971 293.557 0.264585-0.45828 0.229133 0.13229-0.264585 0.45828z" style="paint-order:normal"/>
+   <path d="m3.31079 294.041 0.458277-0.26457 0.132287 0.22913-0.458277 0.26458z" style="paint-order:normal"/>
+   <path d="m3.57187 294.751h0.529177l-3.5e-6 0.26458-0.529168 1e-5z" style="paint-order:normal"/>
+   <path transform="matrix(.264583 0 0 .264583 0 292.767)" d="m9.08984 3.64062-2.17969 8.71875a4.5 4.5 0 0 0 1.08984 0.140625 4.5 4.5 0 0 0 4.5-4.5 4.5 4.5 0 0 0-3.41016-4.35938z" style="paint-order:normal"/>
+   <path d="m2.95884 296.077 0.26459 0.45828-0.22914 0.13229-0.26459-0.45827z" style="paint-order:normal"/>
+   <path d="m2.24896 296.339 1.7e-6 0.52918-0.264586-1e-5 -6.6e-6 -0.52917z" style="paint-order:normal"/>
+  </g>
+  <g fill="#53676c">
+   <circle cx="1.71979" cy="295.545" r=".132292" style="paint-order:normal"/>
+   <circle cx="1.19063" cy="295.28" r=".132292" style="paint-order:normal"/>
+   <circle cx=".926042" cy="294.486" r=".132292" style="paint-order:normal"/>
+  </g>
+ </g>
+</svg>
